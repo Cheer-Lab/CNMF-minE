@@ -1,3 +1,6 @@
+# Alterations to CNMF-E pipeline (CNMF-minE)
+Alterations to the code were made to make the read functions compatible with various video filetypes, with a specific aim to make it compatible with AVI videos recorded using the open source ![UCLA miniscope](http://miniscope.org/index.php/Main_Page). Additionally, files are included for the creation of presentation quality videos of synchronized traces, behavioral videos, and processed calcium videos. 
+
 # CNMF_E
 Constrained Nonnegative Matrix Factorization for microEndoscopic data. 'E' also suggests 'extension'. It is built on top of [CNMF](https://github.com/epnev/ca_source_extraction) with supports to 1 photon data. 
 
